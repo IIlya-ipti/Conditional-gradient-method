@@ -1,3 +1,0 @@
-C:/Users/Ilya/source/repos/ConditionalGradient/cmake-build-debug/CMakeFiles/ConditionalGradient.dir
-C:/Users/Ilya/source/repos/ConditionalGradient/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Ilya/source/repos/ConditionalGradient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
