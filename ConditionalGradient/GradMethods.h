@@ -1,8 +1,8 @@
 #pragma once
 
-#include <vector>
-#include <cmath>
+
 #include "Matrix.h"
+
 
 
 class Func {
@@ -56,4 +56,4 @@ std::vector<double> minGrad1P(Func* f);
 /*
     norm in Euclidean metric
 */
-double modul(vector<double> val);
+double modul(std::vector<double> val);

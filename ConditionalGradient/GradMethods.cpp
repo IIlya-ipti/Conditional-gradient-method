@@ -1,4 +1,3 @@
-#include <vector>
 #include "GradMethods.h"
 
 
@@ -71,13 +70,13 @@ std::vector<double> minGrad1P(Func* f) {
         x[0] = x[0] - dx.getValue(0, 0);
         x[1] = x[1] - dx.getValue(0, 1);
         if (steps == 50)break;
-    } while (abs(std::max<double>(std::abs(dx.getValue(0, 0)), abs(dx.getValue(0, 1)))) > eps);
+    } while (std::abs(std::max<double>(std::abs(dx.getValue(0, 0)), std::abs(dx.getValue(0, 1)))) > eps);
 
     return x;
 }
 
 
-double modul(vector<double> val) {
+double modul(std::vector<double> val) {
     double sm = 0;
     for (int i = 0; i < val.size(); i++) {
         sm += val[i] * val[i];

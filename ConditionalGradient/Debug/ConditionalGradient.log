@@ -1,35 +1,4 @@
 ﻿  ConditionalGradient.cpp
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(39,13): warning C4101: b: неиспользованная локальная переменная
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(81,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(90,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(108,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(112,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(118,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(122,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(141,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(165,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(229,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(230,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(228,12): warning C4101: min_2: неиспользованная локальная переменная
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(240,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\ConditionalGradient.cpp(188,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\ConditionalGradient.cpp(203,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\Matrix.h(165,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\Matrix.h(163): message : во время компиляции функции-члена класс шаблон "Matrix<double> Matrix<double>::Samp(std::vector<int,std::allocator<int>>,std::vector<int,std::allocator<int>>)"
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(106): message : выполняется компиляция ссылки на экземпляр шаблон функции "Matrix<double> Matrix<double>::Samp(std::vector<int,std::allocator<int>>,std::vector<int,std::allocator<int>>)"
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(14): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Matrix<double>"
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\Matrix.h(166,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\Matrix.h(19,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(106): message : выполняется компиляция ссылки на экземпляр шаблон функции "Matrix<double> operator *<T>(Matrix<T>,Matrix<T>)"
-          with
-          [
-              T=double
-          ]
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\Matrix.h(26,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\GradMethods.h(14): message : выполняется компиляция ссылки на экземпляр шаблон функции "Matrix<double> operator *<T>(Matrix<T>,const double)"
-          with
-          [
-              T=double
-          ]
-C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\SimplexMethod.h(95): warning C4715: search: значение возвращается не при всех путях выполнения
+C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\ConditionalGradient.cpp(191,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ilya\source\repos\ConditionalGradient\ConditionalGradient\ConditionalGradient.cpp(206,27): warning C4018: <: несоответствие типов со знаком и без знака
   ConditionalGradient.vcxproj -> C:\Users\Ilya\source\repos\ConditionalGradient\Debug\ConditionalGradient.exe

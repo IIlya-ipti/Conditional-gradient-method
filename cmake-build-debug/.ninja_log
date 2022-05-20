@@ -1,0 +1,4 @@
+# ninja log v5
+21	335	6747423075695809	CMakeFiles/ConditionalGradient.dir/ConditionalGradient/Matrix.cpp.obj	5adb674930d67938
+0	691	6747423079236614	CMakeFiles/ConditionalGradient.dir/ConditionalGradient/ConditionalGradient.cpp.obj	ee6f528a63082674
+16	748	6747423079816742	CMakeFiles/ConditionalGradient.dir/ConditionalGradient/SimplexMethod.cpp.obj	6d76880932d08622
